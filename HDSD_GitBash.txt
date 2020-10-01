@@ -1,0 +1,32 @@
+﻿-Đăng nhập vào git  Bash
+git config --global user.name "User Name"
+git config --global user.email "username@gmail.com"
+
+-Sao chép dữ liệu đã có
+git clone https://github.com/user/repository.git
+
+-Tạo nhánh mới <branch>
+git branch <name_branch>
+
+-Di chuyển vào nhánh đó
+git branch -b <name_branch>
+
+-Tạo project trên git
+git clone *url*
+
+// Thêm một phiên bản mới cho project
+git branch -v    - Kiểm tra tất cả các nhánh
+git add . // git add *tên file*.duôi file
+
+-Tạo một nhánh mới
+git checkout *tên nhánh*
+git add .
+git commit -m "Ghi chú"
+git push origin *tên nhánh* // Không nên đưa lên master-> nhánh con
+
+- Tải code về và đưa code lên
+git pull origin master
+git checkout *tên nhánh mới*
+git add .
+git commit -m "Ghi chú"
+git push origin *tên nhánh* // Không nên đưa lên master -> nhánh con
