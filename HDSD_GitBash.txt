@@ -30,4 +30,4 @@ git checkout *tên nhánh mới*
 git add .
 git commit -m "Ghi chú"
 git push origin *tên nhánh* // Không nên đưa lên master -> nhánh con
--- Thanh Phong IT
+-- Trần Thanh Phong
