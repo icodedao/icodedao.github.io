@@ -31,6 +31,9 @@ public class Worker implements Runnable {
                                 if(messenger.length == 2){
                                     this.myName = Integer.toString(2);
                                 }
+                                else{
+                                    // Code tieeps
+                                }
                                 
                                 // End
 				System.out.println("Server received: " + input + " from " + socket.toString() + " # Client " + myName);

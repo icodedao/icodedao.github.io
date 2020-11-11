@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package OnTap;
+package JavaBacsic;
 
-import static OnTap.Tuan01.inp;
+import static JavaBacsic.Tuan01.inp;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
