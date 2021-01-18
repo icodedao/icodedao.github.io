@@ -1,0 +1,14 @@
+================ CƠ SỞ TRÍ TUỆ NHÂN TẠO ================
+
+Tuần 01:
+	Chương 1: Tổng quan về trí tuệ nhân tạo
+	
+	( đã trình bày )
+	
+	Chương 2: Phương pháp tìm kiếm Heuristic
+
+	1. Không gian trạng thái
+		- Có thể có 2 chiều
+		- Có thể có n chiều
+		- Tìm kiếm toàn cục ( Global )
+		- Không tìm kiếm cục bộ ( Local )
