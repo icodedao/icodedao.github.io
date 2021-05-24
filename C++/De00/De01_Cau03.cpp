@@ -14,7 +14,7 @@ void nhapmang(int *&a, int &n)
 void xuatmang(int *a, int n )
 {
 	cout<<"Xuat mang \n";
-	for(int i = 0 ; i < n; 
+	for(int i = 0 ; i < n; i++)
 	{
 		cout<<a[i]<<" ";
 	}
@@ -46,8 +46,6 @@ void xoapt(int a[], int &n, int vitri)
         a[i] = a[i+1];
     }
     n--;
-    // Oke
-    
 }
 void xoa_pty(int *a, int &n, int y)
 {
